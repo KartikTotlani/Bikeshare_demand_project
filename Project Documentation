@@ -1,0 +1,30 @@
+## Project Documentation
+
+Welcome to the documentation for Bikeshare_demand_project. This section provides information on how to set up, use, and contribute to this project.
+
+### Installation
+
+To set up and run this project on your local machine, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/KartikTotlani/Bikeshare_demand_project.git
+
+2. Navigate to the project directory
+   cd Bikeshare_demand_project
+
+3. Install required R packages
+   install.packages("timetk")
+   library(timetk)
+
+   install.packages("zoo")
+   library(zoo)
+
+   install.packages("lubridate")
+   library(lubridate)
+
+   install.packages("forecast")
+   library(forecast)
+
+   install.packages("rmarkdown")
+  library(rmarkdown)
