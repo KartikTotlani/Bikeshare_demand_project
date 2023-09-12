@@ -22,7 +22,7 @@ This data analysis project focuses on forecasting daily bike rental demand using
 
 The dataset contains daily counts of rental bike transactions between the years 2011 and 2012. It includes weather and seasonal information.
 
-**Data Source:** [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
+**Data Source:** [Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset) 
 
 **Relevant Paper:** Fanaee-T, Hadi, and Gama, Joao. Event labeling combining ensemble detectors and background knowledge, Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg
 
@@ -89,7 +89,7 @@ Contributions are welcome! If you want to contribute to this project, please fol
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE] file for details.
 
 
 ## Acknowledgments
